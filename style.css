@@ -1,0 +1,234 @@
+body{
+    margin: 0;
+    padding 0;
+}
+.head{
+    background-color: #d12967;
+}
+.nav-bar-top{
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: sans-serif;
+
+
+}
+.right-button-nav{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    background-color: #581596;
+    padding: 15px 28px;
+    transition: 0.4s;
+    font-family: sans-serif;
+    
+}
+
+
+
+
+
+.right-button-nav:hover{
+    padding:10px 50px;
+}
+.navigation-bar{
+    display: flex;
+  align-items: center;
+  padding: 42px 124px 42px 156px;
+  justify-content: space-between;
+  
+  
+ 
+}
+.nav-0{
+    padding-right: 36px;
+    color: white;
+    
+}
+.Main-txt{
+    font-family: sans-serif;
+    margin-left: 156px;
+    font-size: 64px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 27px;
+  line-height: 1.5px;
+}
+.button{
+    color: white;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: #581596;
+  padding: 15px 28px;
+
+
+}
+
+.banner{
+    width: 556px;
+  height: 450px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+}
+.banner:hover{
+transition: 0.9s;
+padding-top: 40px;
+}
+.home{
+    display: flex;
+}
+.players {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 30px;
+    row-gap: 27px;
+    max-width: 1050px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 165px;
+  }
+  .player-box {
+    padding: 15px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+  }
+  .player-box h1 {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+  
+    margin: 16px 0;
+  }
+  .player-box p {
+    padding-bottom: 20px;
+    color: #6c6c6c;
+    line-height: 26px;
+    font-weight: normal;
+  }
+  .player-box img {
+    max-width: 300px;
+    height: 256px;
+  }
+  /* .second-main-txt{
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 1.5px;
+    margin-top: 90px;
+   position: absolute;
+   top: 50%;
+
+  } */
+  .highlights {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 66px;
+    max-width: 1100px;
+    margin: auto;
+  }
+  .left-highlights h1 {
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+    margin: 0;
+  }
+  .left-highlights p {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 24px;
+  }
+  .right-highlights img {
+    max-width: 567px;
+    max-height: 427px;
+  }
+  .left-highlights a {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    background-color: #e02c6d;
+    padding: 10px 24px;}
+  .highlights {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 66px;
+  max-width: 1100px;
+  margin: auto;
+}
+.euro-2024-highlights {
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 700;
+font-family: sans-serif;
+color: #0A0826;
+}
+.left-highlights p {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+.button-5 {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: #e02c6d;
+  padding: 10px 24px;
+  transition: 0.3s;
+ 
+}
+.left-highlights a:hover {
+  padding: 10px 50px;
+  }
+  .highlight-paragraph{
+    font-family: sans-serif;
+    color: #6C6C6c;
+  }
+  .logo{
+    width: 483px;
+    height: 110px;
+    margin-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+   
+  }
+  .icon-div{
+display: flex;
+justify-content: center;
+
+  }
+  .icon-1{
+width: 32px;
+margin-left: 10px;
+  }
+.icon-2{
+  width: 32px;
+  margin-left: 10px;
+} 
+.icon-3{
+  width: 32px;
+  margin-left: 10px;
+} 
+.icon-4{
+  width: 32px;
+  margin-left: 10px;
+} 
+.copyright{
+display: flex;
+justify-content: center;
+font-size: 16px;
+font-family: sans-serif;
+font-weight: 600;
+}
+   
+   
+  
+   
+  
